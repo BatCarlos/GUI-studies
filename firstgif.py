@@ -7,7 +7,7 @@ root.attributes('-fullscreen', True)
 
 root.config(background='#d9d9d9')
 
-gifImage = "Miss-ezgif.com-crop.gif"
+gifImage = "gifs//Miss-ezgif.com-crop.gif"
 
 openImage = Image.open(gifImage)
 

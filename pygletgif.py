@@ -1,7 +1,7 @@
 # Pacote "Leitão" para display de janelas e multimídia
 import pyglet as pg
 
-file = "Miss-ezgif.com-crop.gif"
+file = "gifs/Miss-ezgif.com-crop.gif"
 
 animation = pg.resource.animation(file)
 sprite = pg.sprite.Sprite(animation)
